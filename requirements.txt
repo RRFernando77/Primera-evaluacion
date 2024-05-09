@@ -1,0 +1,3 @@
+#pip install -r requirements.txt
+flet==0.22.*
+simpy==4.1.*
